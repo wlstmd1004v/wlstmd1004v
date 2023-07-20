@@ -1,6 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?heigth=200&text=welcome&fontSize=50&type=waving)
 
-[![wlstmd1004v's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/wlstmd1004v/github-readme-activity-graph)
+
+![wlstmd1004v's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlstmd1004v&show_icons=true&theme=radical)
 <!--
 **wlstmd1004v/wlstmd1004v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![wlstmd's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/wlstmd1004v/github-readme-activity-graph)
+[![wlstmd1004v's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/wlstmd1004v/github-readme-activity-graph)
 <!--
 **wlstmd1004v/wlstmd1004v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

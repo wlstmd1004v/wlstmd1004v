@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?heigth=200&text=welcome&fontSize=50&type=waving)
 
+[![wlstmd1004v's GitHub](https://github-readme-stats.vercel.app/api?username=wlstmd1004v&theme=react&show_icons=true&custom_title=NohChiHyun's_Activity&rank_icon=github)](https://github.com/wlstmd1004v/github-readme-stats)
 
-![wlstmd1004v's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlstmd1004v&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlstmd&layout=compact&theme=tokyonight)
 <!--
 **wlstmd1004v/wlstmd1004v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

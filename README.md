@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?heigth=200&text=welcome&fontSize=50&type=waving)
 
-[![wlstmd1004v's GitHub](https://github-readme-stats.vercel.app/api?username=wlstmd1004v&theme=react&show_icons=true&custom_title=wlstmd1004v's_Activity&rank_icon=github)](https://github.com/wlstmd1004v/github-readme-stats)
+[![전진승's GitHub](https://github-readme-stats.vercel.app/api?username=wlstmd1004v&theme=react&show_icons=true&custom_title=전진승's_Activity&rank_icon=github)](https://github.com/wlstmd1004v/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlstmd1004v&layout=compact&theme=tokyonight)
 <!--

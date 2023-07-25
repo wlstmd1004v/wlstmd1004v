@@ -23,9 +23,7 @@
 <br>
 
 
-[![전진승's GitHub](https://github-readme-stats.vercel.app/api?username=wlstmd1004v&theme=react&show_icons=true&custom_title=전진승's_Activity&rank_icon=github)](https://github.com/wlstmd1004v/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlstmd1004v&layout=compact&theme=tokyonight)
 <!--
 **wlstmd1004v/wlstmd1004v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

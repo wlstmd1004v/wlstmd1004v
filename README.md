@@ -21,6 +21,22 @@
   <img src="https://img.shields.io/badge/React-61B0FB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
+<br>
+
+## 📜 Tools 📜 
+<!-- VS  -->
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+<br>
+
+## 💻 About Me 💻 
+<!-- 깃허브 -->
+<a href="https://github.com/KIMGEUNDU" target="_blank">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<!-- 벨로그 -->
+ <a href="https://velog.io/@f_vlkoklv" target="_blank">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+</a>
 
 ### Stats
 ![wlstmd1004v's GitHub stats](https://github-readme-stats.vercel.app/api?username=wlstmd1004v&show_icons=true&theme=great-gatsby)

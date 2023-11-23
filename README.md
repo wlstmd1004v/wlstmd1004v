@@ -9,7 +9,7 @@
 ## 🏅 Education 🏅
 <img src="https://img.shields.io/badge/Techit_FE_Shcool-9999FF?style=for-the-badge&logo=lionair&logoColor=white">
 
-### Technologies
+## 🛠️ Technologies 🛠️
 <div style="flex">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-F68212?style=flat-square&logo=CSS3&logoColor=white"/>

@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7A010?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61B0FB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </div>
 <br>
 

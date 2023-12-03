@@ -4,7 +4,7 @@
 ### I'm a junior frontend engineer
 - I love make life easier and fun with code. 😊💕
 - I love learning design tools. 🎨
-- I'm currently learning: TypeScript, FIGMA
+- I'm currently learning: TypeScript
 
 ## 🏅 Education 🏅
 <img src="https://img.shields.io/badge/Techit_FE_Shcool-9999FF?style=for-the-badge&logo=lionair&logoColor=white">

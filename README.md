@@ -29,11 +29,11 @@
 
 ## 💻 About Me 💻 
 <!-- 깃허브 -->
-<a href="https://github.com/KIMGEUNDU" target="_blank">
+<a href="https://github.com/wlstmd1004v" target="_blank">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <!-- 벨로그 -->
- <a href="https://velog.io/@f_vlkoklv" target="_blank">
+ <a href="https://velog.io/@wlstmd1004v" target="_blank">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 </a>
 
